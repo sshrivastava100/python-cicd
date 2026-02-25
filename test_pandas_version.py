@@ -1,5 +1,5 @@
 '''
-Test for correct pandas version
+Test  correct pandas version
 '''
 import pandas as pd
 
